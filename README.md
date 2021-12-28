@@ -25,7 +25,7 @@ When the program is running, you can use the key 1 to remove the character and o
 For more information see the README.md in the project ThreeDPoseUnityBarracuda under the section "Install and Tutorial" and the section "Other Option". (https://github.com/digital-standard/ThreeDPoseUnityBarracuda#readme)
 
 ## Hardware
-This program has been sussesfully tested with the GPU RTX 2070 super.
+This program has been successfully tested with the GPU RTX 2070 super.
 This project may not work with CPU, have not tested yet though.
 
 ## License
